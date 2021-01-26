@@ -89,6 +89,10 @@ If they don't know your conference they can't buy a ticket and come to it 😏.
 
 * [Canceled] 27-30 [Snowcamp.io](https://snowcamp.io) - France (Grenoble)
 
+### March
+
+* 29-31 [DevOps.js Conference](https://devopsjsconf.com) - Remote
+
 ### April
 
 * 25-29 [GopherCon Europe](https://gophercon.berlin/) - Germany (Berlin)
